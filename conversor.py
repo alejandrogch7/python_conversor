@@ -25,7 +25,7 @@ Si vas a convertir tus dólares a una divisa, escoge cual, estas son tus opcione
 5 - Pesos Argentinos 
 6 - Pesos Mexicanos
 
-Elige una opción: """
+Elige una opción:  """
 
 option = int(input(menu))    
 
